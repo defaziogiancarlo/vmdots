@@ -40,10 +40,10 @@ __prompt_command() {
     # there might be some way to do true rgb
 
     local HotPink="\[\033[01;38;5;201m\]"
-    local Blue="\[\033[01;38;5;21m\]"
+    local Blue="\[\033[01;38;5;26m\]"
     local Turquoise="\[\033[01;38;5;29m\]"
     local ErrorRed="\[\033[01;38;5;196m\]"
-    local Purple="\[\033[01;38;5;92m\]"    
+    local Purple="\[\033[01;38;5;99m\]"    
     
     # reset color
     local RC='\[\e[0m\]'
